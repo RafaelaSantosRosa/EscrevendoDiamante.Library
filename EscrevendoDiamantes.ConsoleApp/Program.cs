@@ -13,8 +13,6 @@ namespace EscrevendoDiamantes.ConsoleApp
         {
             AdicionarLetras();
 
-
-            //ParteDeCimaDiamante('D');
               ParteBaixa('Z');
 
             Console.ReadLine();
